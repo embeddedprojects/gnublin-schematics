@@ -143,10 +143,7 @@
 <library name="microbuilder">
 <packages>
 <package name="RASBERRYPI_SHIELD">
-<wire x1="0" y1="0" x2="0" y2="85" width="0.127" layer="20"/>
-<wire x1="0" y1="85" x2="56" y2="85" width="0.127" layer="20"/>
-<wire x1="56" y1="85" x2="56" y2="0" width="0.127" layer="20"/>
-<wire x1="56" y1="0" x2="0" y2="0" width="0.127" layer="20"/>
+<circle x="6.9" y="71.8" radius="3.2" width="0.127" layer="47"/>
 <wire x1="50.673" y1="83.82" x2="50.038" y2="83.185" width="0.1524" layer="21"/>
 <wire x1="50.038" y1="83.185" x2="50.038" y2="81.915" width="0.1524" layer="21"/>
 <wire x1="50.038" y1="81.915" x2="50.673" y2="81.28" width="0.1524" layer="21"/>
@@ -239,7 +236,36 @@
 <wire x1="54.483" y1="55.88" x2="50.673" y2="55.88" width="0.1524" layer="21"/>
 <wire x1="54.483" y1="53.34" x2="50.673" y2="53.34" width="0.1524" layer="21"/>
 <wire x1="54.483" y1="50.8" x2="50.673" y2="50.8" width="0.1524" layer="21"/>
-<circle x="6.9" y="71.8" radius="3.2" width="0.127" layer="47"/>
+<rectangle x1="51.054" y1="82.296" x2="51.562" y2="82.804" layer="51" rot="R270"/>
+<rectangle x1="53.594" y1="82.296" x2="54.102" y2="82.804" layer="51" rot="R270"/>
+<rectangle x1="53.594" y1="79.756" x2="54.102" y2="80.264" layer="51" rot="R270"/>
+<rectangle x1="51.054" y1="79.756" x2="51.562" y2="80.264" layer="51" rot="R270"/>
+<rectangle x1="53.594" y1="77.216" x2="54.102" y2="77.724" layer="51" rot="R270"/>
+<rectangle x1="51.054" y1="77.216" x2="51.562" y2="77.724" layer="51" rot="R270"/>
+<rectangle x1="53.594" y1="74.676" x2="54.102" y2="75.184" layer="51" rot="R270"/>
+<rectangle x1="53.594" y1="72.136" x2="54.102" y2="72.644" layer="51" rot="R270"/>
+<rectangle x1="53.594" y1="69.596" x2="54.102" y2="70.104" layer="51" rot="R270"/>
+<rectangle x1="51.054" y1="74.676" x2="51.562" y2="75.184" layer="51" rot="R270"/>
+<rectangle x1="51.054" y1="72.136" x2="51.562" y2="72.644" layer="51" rot="R270"/>
+<rectangle x1="51.054" y1="69.596" x2="51.562" y2="70.104" layer="51" rot="R270"/>
+<rectangle x1="53.594" y1="67.056" x2="54.102" y2="67.564" layer="51" rot="R270"/>
+<rectangle x1="51.054" y1="67.056" x2="51.562" y2="67.564" layer="51" rot="R270"/>
+<rectangle x1="53.594" y1="64.516" x2="54.102" y2="65.024" layer="51" rot="R270"/>
+<rectangle x1="51.054" y1="64.516" x2="51.562" y2="65.024" layer="51" rot="R270"/>
+<rectangle x1="53.594" y1="61.976" x2="54.102" y2="62.484" layer="51" rot="R270"/>
+<rectangle x1="51.054" y1="61.976" x2="51.562" y2="62.484" layer="51" rot="R270"/>
+<rectangle x1="53.594" y1="59.436" x2="54.102" y2="59.944" layer="51" rot="R270"/>
+<rectangle x1="51.054" y1="59.436" x2="51.562" y2="59.944" layer="51" rot="R270"/>
+<rectangle x1="53.594" y1="56.896" x2="54.102" y2="57.404" layer="51" rot="R270"/>
+<rectangle x1="51.054" y1="56.896" x2="51.562" y2="57.404" layer="51" rot="R270"/>
+<rectangle x1="53.594" y1="54.356" x2="54.102" y2="54.864" layer="51" rot="R270"/>
+<rectangle x1="51.054" y1="54.356" x2="51.562" y2="54.864" layer="51" rot="R270"/>
+<rectangle x1="53.594" y1="51.816" x2="54.102" y2="52.324" layer="51" rot="R270"/>
+<rectangle x1="51.054" y1="51.816" x2="51.562" y2="52.324" layer="51" rot="R270"/>
+<rectangle x1="2" y1="-1" x2="18" y2="20" layer="47"/>
+<rectangle x1="24.5" y1="-7" x2="38" y2="10.5" layer="47"/>
+<rectangle x1="4" y1="79" x2="12" y2="86" layer="47"/>
+<rectangle x1="-1" y1="32.5" x2="11" y2="47.5" layer="47"/>
 <pad name="1" x="51.308" y="82.55" drill="1" diameter="1.6764" shape="square" rot="R270"/>
 <pad name="2" x="53.848" y="82.55" drill="1" diameter="1.6764" rot="R270"/>
 <pad name="3" x="51.308" y="80.01" drill="1" diameter="1.6764" rot="R270"/>
@@ -292,36 +318,6 @@
 <text x="49.53" y="57.912" size="1.27" layer="25" font="vector" rot="R180">SPI_MISO</text>
 <text x="49.53" y="55.372" size="1.27" layer="25" font="vector" rot="R180">SPI_SCLK</text>
 <text x="49.53" y="52.832" size="1.27" layer="25" font="vector" rot="R180">DNC</text>
-<rectangle x1="51.054" y1="82.296" x2="51.562" y2="82.804" layer="51" rot="R270"/>
-<rectangle x1="53.594" y1="82.296" x2="54.102" y2="82.804" layer="51" rot="R270"/>
-<rectangle x1="53.594" y1="79.756" x2="54.102" y2="80.264" layer="51" rot="R270"/>
-<rectangle x1="51.054" y1="79.756" x2="51.562" y2="80.264" layer="51" rot="R270"/>
-<rectangle x1="53.594" y1="77.216" x2="54.102" y2="77.724" layer="51" rot="R270"/>
-<rectangle x1="51.054" y1="77.216" x2="51.562" y2="77.724" layer="51" rot="R270"/>
-<rectangle x1="53.594" y1="74.676" x2="54.102" y2="75.184" layer="51" rot="R270"/>
-<rectangle x1="53.594" y1="72.136" x2="54.102" y2="72.644" layer="51" rot="R270"/>
-<rectangle x1="53.594" y1="69.596" x2="54.102" y2="70.104" layer="51" rot="R270"/>
-<rectangle x1="51.054" y1="74.676" x2="51.562" y2="75.184" layer="51" rot="R270"/>
-<rectangle x1="51.054" y1="72.136" x2="51.562" y2="72.644" layer="51" rot="R270"/>
-<rectangle x1="51.054" y1="69.596" x2="51.562" y2="70.104" layer="51" rot="R270"/>
-<rectangle x1="53.594" y1="67.056" x2="54.102" y2="67.564" layer="51" rot="R270"/>
-<rectangle x1="51.054" y1="67.056" x2="51.562" y2="67.564" layer="51" rot="R270"/>
-<rectangle x1="53.594" y1="64.516" x2="54.102" y2="65.024" layer="51" rot="R270"/>
-<rectangle x1="51.054" y1="64.516" x2="51.562" y2="65.024" layer="51" rot="R270"/>
-<rectangle x1="53.594" y1="61.976" x2="54.102" y2="62.484" layer="51" rot="R270"/>
-<rectangle x1="51.054" y1="61.976" x2="51.562" y2="62.484" layer="51" rot="R270"/>
-<rectangle x1="53.594" y1="59.436" x2="54.102" y2="59.944" layer="51" rot="R270"/>
-<rectangle x1="51.054" y1="59.436" x2="51.562" y2="59.944" layer="51" rot="R270"/>
-<rectangle x1="53.594" y1="56.896" x2="54.102" y2="57.404" layer="51" rot="R270"/>
-<rectangle x1="51.054" y1="56.896" x2="51.562" y2="57.404" layer="51" rot="R270"/>
-<rectangle x1="53.594" y1="54.356" x2="54.102" y2="54.864" layer="51" rot="R270"/>
-<rectangle x1="51.054" y1="54.356" x2="51.562" y2="54.864" layer="51" rot="R270"/>
-<rectangle x1="53.594" y1="51.816" x2="54.102" y2="52.324" layer="51" rot="R270"/>
-<rectangle x1="51.054" y1="51.816" x2="51.562" y2="52.324" layer="51" rot="R270"/>
-<rectangle x1="2" y1="-1" x2="18" y2="20" layer="47"/>
-<rectangle x1="24.5" y1="-7" x2="38" y2="10.5" layer="47"/>
-<rectangle x1="4" y1="79" x2="12" y2="86" layer="47"/>
-<rectangle x1="-1" y1="32.5" x2="11" y2="47.5" layer="47"/>
 <polygon width="0.127" layer="47">
 <vertex x="44.5" y="14.5"/>
 <vertex x="56" y="14.5"/>
@@ -350,32 +346,32 @@
 <wire x1="15.24" y1="17.78" x2="15.24" y2="-17.78" width="0.254" layer="94"/>
 <wire x1="15.24" y1="-17.78" x2="-12.7" y2="-17.78" width="0.254" layer="94"/>
 <wire x1="-12.7" y1="-17.78" x2="-12.7" y2="17.78" width="0.254" layer="94"/>
+<pin name="#SPI_CE0" x="20.32" y="-12.7" length="middle" direction="out" rot="R180"/>
+<pin name="#SPI_CE1" x="20.32" y="-15.24" length="middle" direction="out" rot="R180"/>
 <pin name="3.3V@1" x="-17.78" y="15.24" length="middle" direction="sup"/>
-<pin name="SDA0" x="-17.78" y="12.7" length="middle"/>
-<pin name="SCL0" x="-17.78" y="10.16" length="middle" direction="out"/>
-<pin name="GPIO7" x="-17.78" y="7.62" length="middle"/>
+<pin name="5.0V@1" x="20.32" y="15.24" length="middle" direction="sup" rot="R180"/>
+<pin name="DNC@1" x="20.32" y="12.7" length="middle" direction="nc" rot="R180"/>
 <pin name="DNC@2" x="-17.78" y="5.08" length="middle" direction="nc"/>
+<pin name="DNC@3" x="20.32" y="0" length="middle" direction="nc" rot="R180"/>
+<pin name="DNC@4" x="-17.78" y="-5.08" length="middle" direction="nc"/>
+<pin name="DNC@5" x="20.32" y="-7.62" length="middle" direction="nc" rot="R180"/>
+<pin name="DNC@6" x="-17.78" y="-15.24" length="middle" direction="nc"/>
+<pin name="GND" x="20.32" y="10.16" length="middle" direction="sup" rot="R180"/>
 <pin name="GPIO0" x="-17.78" y="2.54" length="middle"/>
+<pin name="GPIO1" x="20.32" y="2.54" length="middle" rot="R180"/>
 <pin name="GPIO2" x="-17.78" y="0" length="middle"/>
 <pin name="GPIO3" x="-17.78" y="-2.54" length="middle"/>
-<pin name="DNC@4" x="-17.78" y="-5.08" length="middle" direction="nc"/>
-<pin name="SPI_MOSI" x="-17.78" y="-7.62" length="middle" direction="out"/>
-<pin name="SPI_MISO" x="-17.78" y="-10.16" length="middle" direction="in"/>
-<pin name="SPI_SCLK" x="-17.78" y="-12.7" length="middle" direction="out"/>
-<pin name="DNC@6" x="-17.78" y="-15.24" length="middle" direction="nc"/>
-<pin name="#SPI_CE1" x="20.32" y="-15.24" length="middle" direction="out" rot="R180"/>
-<pin name="#SPI_CE0" x="20.32" y="-12.7" length="middle" direction="out" rot="R180"/>
-<pin name="GPIO6" x="20.32" y="-10.16" length="middle" rot="R180"/>
-<pin name="DNC@5" x="20.32" y="-7.62" length="middle" direction="nc" rot="R180"/>
-<pin name="GPIO5" x="20.32" y="-5.08" length="middle" rot="R180"/>
 <pin name="GPIO4" x="20.32" y="-2.54" length="middle" rot="R180"/>
-<pin name="DNC@3" x="20.32" y="0" length="middle" direction="nc" rot="R180"/>
-<pin name="GPIO1" x="20.32" y="2.54" length="middle" rot="R180"/>
+<pin name="GPIO5" x="20.32" y="-5.08" length="middle" rot="R180"/>
+<pin name="GPIO6" x="20.32" y="-10.16" length="middle" rot="R180"/>
+<pin name="GPIO7" x="-17.78" y="7.62" length="middle"/>
 <pin name="RXD" x="20.32" y="5.08" length="middle" direction="in" rot="R180"/>
+<pin name="SCL0" x="-17.78" y="10.16" length="middle" direction="out"/>
+<pin name="SDA0" x="-17.78" y="12.7" length="middle"/>
+<pin name="SPI_MISO" x="-17.78" y="-10.16" length="middle" direction="in"/>
+<pin name="SPI_MOSI" x="-17.78" y="-7.62" length="middle" direction="out"/>
+<pin name="SPI_SCLK" x="-17.78" y="-12.7" length="middle" direction="out"/>
 <pin name="TXD" x="20.32" y="7.62" length="middle" direction="out" rot="R180"/>
-<pin name="GND" x="20.32" y="10.16" length="middle" direction="sup" rot="R180"/>
-<pin name="DNC@1" x="20.32" y="12.7" length="middle" direction="nc" rot="R180"/>
-<pin name="5.0V@1" x="20.32" y="15.24" length="middle" direction="sup" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -624,6 +620,39 @@ Low profile connectors, straight&lt;p&gt;
 <connect gate="1" pin="8" pad="8"/>
 <connect gate="1" pin="9" pad="9"/>
 </connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+<library name="supply1">
+<description>&lt;b&gt;Supply Symbols&lt;/b&gt;&lt;p&gt;
+ GND, VCC, 0V, +5V, -5V, etc.&lt;p&gt;
+ Please keep in mind, that these devices are necessary for the
+ automatic wiring of the supply signals.&lt;p&gt;
+ The pin name defined in the symbol is identical to the net which is to be wired automatically.&lt;p&gt;
+ In this library the device names are the same as the pin names of the symbols, therefore the correct signal names appear next to the supply symbols in the schematic.&lt;p&gt;
+ &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
+<packages>
+</packages>
+<symbols>
+<symbol name="GND">
+<wire x1="-1.905" y1="0" x2="1.905" y2="0" width="0.254" layer="94"/>
+<text x="-2.54" y="-2.54" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="GND" x="0" y="2.54" visible="off" length="short" direction="sup" rot="R270"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="GND" prefix="GND">
+<description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
+<gates>
+<gate name="1" symbol="GND" x="0" y="0"/>
+</gates>
+<devices>
+<device name="">
 <technologies>
 <technology name=""/>
 </technologies>
@@ -994,39 +1023,6 @@ Low profile connectors, straight&lt;p&gt;
 </deviceset>
 </devicesets>
 </library>
-<library name="supply1">
-<description>&lt;b&gt;Supply Symbols&lt;/b&gt;&lt;p&gt;
- GND, VCC, 0V, +5V, -5V, etc.&lt;p&gt;
- Please keep in mind, that these devices are necessary for the
- automatic wiring of the supply signals.&lt;p&gt;
- The pin name defined in the symbol is identical to the net which is to be wired automatically.&lt;p&gt;
- In this library the device names are the same as the pin names of the symbols, therefore the correct signal names appear next to the supply symbols in the schematic.&lt;p&gt;
- &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
-<packages>
-</packages>
-<symbols>
-<symbol name="GND">
-<wire x1="-1.905" y1="0" x2="1.905" y2="0" width="0.254" layer="94"/>
-<text x="-2.54" y="-2.54" size="1.778" layer="96">&gt;VALUE</text>
-<pin name="GND" x="0" y="2.54" visible="off" length="short" direction="sup" rot="R270"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="GND" prefix="GND">
-<description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
-<gates>
-<gate name="1" symbol="GND" x="0" y="0"/>
-</gates>
-<devices>
-<device name="">
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 </libraries>
 <attributes>
 </attributes>
@@ -1044,9 +1040,9 @@ Low profile connectors, straight&lt;p&gt;
 <part name="SV4" library="con-ml" deviceset="ML14" device=""/>
 <part name="SV5" library="con-ml" deviceset="ML14" device=""/>
 <part name="SV6" library="con-ml" deviceset="ML14" device=""/>
-<part name="U$2" library="EmbeddedProjectsLogos2" deviceset="EPLOGO" device="SIEB"/>
-<part name="U$4" library="EmbeddedProjectsLogos2" deviceset="GNUBLINLOGO" device="SIEB"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
+<part name="U$2" library="EmbeddedProjectsLogos2" deviceset="EPLOGO" device="SIEB"/>
+<part name="U$3" library="EmbeddedProjectsLogos2" deviceset="GNUBLINLOGO" device="SIEB"/>
 </parts>
 <sheets>
 <sheet>
@@ -1054,11 +1050,8 @@ Low profile connectors, straight&lt;p&gt;
 <text x="215.9" y="20.32" size="1.778" layer="91" font="vector">created by Markus Musielak</text>
 <wire x1="27.94" y1="66.04" x2="129.54" y2="66.04" width="0.1524" layer="94" style="dashdot"/>
 <wire x1="129.54" y1="66.04" x2="129.54" y2="12.7" width="0.1524" layer="94" style="dashdot"/>
-<text x="71.12" y="10.16" size="1.778" layer="94">Input</text>
-<text x="172.72" y="71.12" size="1.778" layer="94">Output</text>
-<text x="165.1" y="15.24" size="1.778" layer="91" font="vector">embedded projects GmbH
-www.gnublin.org
-Creative Commons 3.0</text>
+<text x="71.12" y="10.16" size="1.778" layer="94">Eingang</text>
+<text x="172.72" y="71.12" size="1.778" layer="94">Ausgänge</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="73.66" y="38.1"/>
@@ -1068,9 +1061,9 @@ Creative Commons 3.0</text>
 <instance part="SV4" gate="1" x="147.32" y="111.76"/>
 <instance part="SV5" gate="1" x="185.42" y="111.76"/>
 <instance part="SV6" gate="1" x="223.52" y="111.76"/>
-<instance part="U$2" gate="G$1" x="167.64" y="7.62"/>
-<instance part="U$4" gate="G$1" x="177.8" y="7.62"/>
 <instance part="GND1" gate="1" x="223.52" y="132.08"/>
+<instance part="U$2" gate="G$1" x="170.18" y="12.7"/>
+<instance part="U$3" gate="G$1" x="185.42" y="15.24"/>
 </instances>
 <busses>
 <bus name="B$1:GPA1,PWM,SDA,MISO,SCK,IO4,IO7,IO11,IO15,GND">
@@ -1552,9 +1545,9 @@ Creative Commons 3.0</text>
 <label x="101.6" y="25.4" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="SV4" gate="1" pin="11"/>
-<wire x1="162.56" y1="116.84" x2="154.94" y2="116.84" width="0.1524" layer="91"/>
-<label x="154.94" y="116.84" size="1.27" layer="95"/>
+<pinref part="SV4" gate="1" pin="12"/>
+<wire x1="139.7" y1="116.84" x2="134.62" y2="116.84" width="0.1524" layer="91"/>
+<label x="134.62" y="116.84" size="1.27" layer="95"/>
 </segment>
 </net>
 <net name="IO7" class="0">
@@ -1576,9 +1569,9 @@ Creative Commons 3.0</text>
 <label x="48.26" y="45.72" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="SV4" gate="1" pin="12"/>
-<wire x1="132.08" y1="116.84" x2="139.7" y2="116.84" width="0.1524" layer="91"/>
-<label x="134.62" y="116.84" size="1.27" layer="95"/>
+<pinref part="SV4" gate="1" pin="11"/>
+<wire x1="154.94" y1="116.84" x2="160.02" y2="116.84" width="0.1524" layer="91"/>
+<label x="154.94" y="116.84" size="1.27" layer="95"/>
 </segment>
 </net>
 <net name="IO24" class="0">
@@ -1606,10 +1599,4 @@ Creative Commons 3.0</text>
 </errors>
 </schematic>
 </drawing>
-<compatibility>
-<note version="6.3" minversion="6.2.2" severity="warning">
-Since Version 6.2.2 text objects can contain more than one line,
-which will not be processed correctly with this version.
-</note>
-</compatibility>
 </eagle>
