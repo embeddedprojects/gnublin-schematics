@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.3">
+<eagle version="6.4">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -8572,6 +8572,7 @@ Source: 008-0260-0_E.pdf</description>
 <text x="170.18" y="127" size="1.778" layer="91">Term.</text>
 <text x="162.56" y="12.7" size="1.778" layer="94" font="vector">Lizenz </text>
 <text x="162.56" y="7.62" size="1.778" layer="94" font="vector">(cc) creative commons 3.0</text>
+<text x="162.56" y="20.32" size="1.778" layer="94" font="vector">embedded projects GmbH</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>

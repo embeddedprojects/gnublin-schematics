@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.3">
+<eagle version="6.4">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -15862,13 +15862,14 @@ Source: www.kingbright.com</description>
 <sheets>
 <sheet>
 <plain>
-<text x="162.56" y="20.32" size="1.778" layer="94" font="vector">created by Markus Musielak</text>
+<text x="162.56" y="15.24" size="1.778" layer="94" font="vector">created by Markus Musielak</text>
 <text x="78.74" y="104.14" size="1.778" layer="91">Adr.</text>
 <text x="78.74" y="124.46" size="1.778" layer="91">Ext. Switch</text>
 <text x="109.22" y="134.62" size="1.778" layer="91" rot="R270">Term.</text>
 <text x="203.2" y="106.68" size="1.778" layer="91" rot="R90">Motor</text>
-<text x="162.56" y="15.24" size="1.778" layer="94" font="vector">Lizenz</text>
-<text x="162.56" y="10.16" size="1.778" layer="94" font="vector">(CC 3.0) creative commons 3.0</text>
+<text x="162.56" y="10.16" size="1.778" layer="94" font="vector">Lizenz</text>
+<text x="162.56" y="5.08" size="1.778" layer="94" font="vector">(CC 3.0) creative commons 3.0</text>
+<text x="162.56" y="17.78" size="1.778" layer="94" font="vector">embedded projects GmbH</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>

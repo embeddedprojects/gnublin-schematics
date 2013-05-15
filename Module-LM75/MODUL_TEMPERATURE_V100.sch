@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.3">
+<eagle version="6.4">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -7240,7 +7240,7 @@ Source: www.kingbright.com</description>
 <wire x1="43.18" y1="137.668" x2="42.418" y2="137.668" width="0.1524" layer="94"/>
 <wire x1="42.418" y1="137.668" x2="42.418" y2="138.684" width="0.1524" layer="94"/>
 <text x="99.06" y="99.06" size="1.778" layer="91" rot="R180">Term.</text>
-<text x="167.64" y="17.78" size="1.778" layer="94" font="vector">nach www.horter.de</text>
+<text x="177.8" y="15.24" size="1.778" layer="94" font="vector">nach www.horter.de</text>
 <text x="25.146" y="167.386" size="1.778" layer="91">Adressen</text>
 <text x="22.86" y="162.56" size="1.016" layer="91">JP  3  2  1</text>
 <text x="36.576" y="162.56" size="1.016" layer="91">JP  3  2  1</text>
@@ -7284,9 +7284,10 @@ Source: www.kingbright.com</description>
 <rectangle x1="42.164" y1="157.226" x2="43.434" y2="159.766" layer="94"/>
 <rectangle x1="40.386" y1="157.226" x2="41.656" y2="159.766" layer="94"/>
 <rectangle x1="38.608" y1="159.258" x2="39.878" y2="161.798" layer="94"/>
-<text x="162.56" y="20.32" size="1.778" layer="94" font="vector">created by Markus Musielak</text>
+<text x="162.56" y="17.78" size="1.778" layer="94" font="vector">created by Markus Musielak</text>
 <text x="162.56" y="12.7" size="1.778" layer="94" font="vector">Lizenz</text>
 <text x="162.56" y="7.62" size="1.778" layer="94" font="vector">(CC 3.0) creative commons 3.0</text>
+<text x="162.56" y="20.32" size="1.778" layer="94" font="vector">embedded projects GmbH</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>

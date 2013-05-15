@@ -22056,6 +22056,7 @@ Distributor Conrad</description>
 <text x="302" y="8.7" size="1.27" layer="94" font="vector">Created by Benedikt Sauter</text>
 <text x="393.1" y="7" size="2.54" layer="94" font="vector">A</text>
 <text x="17.78" y="154.94" size="1.016" layer="94">UART zum Debuggen</text>
+<text x="302" y="6.16" size="1.27" layer="94" font="vector">(CC) creative commons 3.0</text>
 </plain>
 <instances>
 <instance part="FRAME3" gate="G$1" x="0" y="0"/>
@@ -24131,6 +24132,7 @@ Distributor Conrad</description>
 <text x="290.46" y="30.38" size="1.778" layer="94">embedded projects GmbH</text>
 <text x="290.46" y="27.84" size="1.778" layer="94">Holzbachstraße 4</text>
 <text x="290.46" y="25.3" size="1.778" layer="94">D-86152 Augsburg</text>
+<text x="288.4" y="6.26" size="1.27" layer="94" font="vector">(CC) creative commons 3.0</text>
 </plain>
 <instances>
 <instance part="FRAME7" gate="G$1" x="0" y="0"/>
