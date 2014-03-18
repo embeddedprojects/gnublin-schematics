@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.3">
+<eagle version="6.4">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -7815,6 +7815,7 @@ Source: www.kingbright.com</description>
 <text x="167.64" y="17.78" size="1.778" layer="94">created by Markus Musielak</text>
 <text x="167.64" y="12.7" size="1.778" layer="94">Lizenz</text>
 <text x="167.64" y="7.62" size="1.778" layer="94">(CC 3.0) creative commons 3.0</text>
+<text x="167.64" y="20.32" size="1.778" layer="94">embedded projects GmbH</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>

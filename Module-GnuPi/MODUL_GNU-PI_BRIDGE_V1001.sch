@@ -1047,11 +1047,12 @@ Low profile connectors, straight&lt;p&gt;
 <sheets>
 <sheet>
 <plain>
-<text x="215.9" y="20.32" size="1.778" layer="91" font="vector">created by Markus Musielak</text>
+<text x="215.9" y="20.32" size="1.778" layer="91" font="vector">embedded projects GmbH</text>
 <wire x1="27.94" y1="66.04" x2="129.54" y2="66.04" width="0.1524" layer="94" style="dashdot"/>
 <wire x1="129.54" y1="66.04" x2="129.54" y2="12.7" width="0.1524" layer="94" style="dashdot"/>
 <text x="71.12" y="10.16" size="1.778" layer="94">Eingang</text>
 <text x="172.72" y="71.12" size="1.778" layer="94">Ausgänge</text>
+<text x="175.26" y="5.08" size="1.778" layer="91" font="vector">(CC) creative commons 3.0</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="73.66" y="38.1"/>

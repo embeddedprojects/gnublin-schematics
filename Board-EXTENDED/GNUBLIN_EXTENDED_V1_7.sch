@@ -17974,6 +17974,7 @@ Source: http://www.fairchildsemi.com/ds/MB/MB6S.pdf</description>
 <text x="302" y="8.7" size="1.27" layer="94" font="vector">Created by Benedikt Sauter</text>
 <text x="393.1" y="7" size="2.54" layer="94" font="vector">A</text>
 <text x="12.7" y="154.94" size="1.016" layer="94">UART zum Debuggen</text>
+<text x="302" y="6.16" size="1.27" layer="94" font="vector">(CC) creative commons 3.0</text>
 </plain>
 <instances>
 <instance part="FRAME3" gate="G$1" x="0" y="0"/>
@@ -20129,6 +20130,7 @@ Source: http://www.fairchildsemi.com/ds/MB/MB6S.pdf</description>
 <text x="83.82" y="40.64" size="1.27" layer="94">VCC Select</text>
 <text x="358.14" y="109.22" size="1.27" layer="94">OTG</text>
 <text x="297.18" y="66.04" size="1.27" layer="94">VCC Select</text>
+<text x="288.4" y="6.26" size="1.27" layer="94" font="vector">(CC) creative commons 3.0</text>
 </plain>
 <instances>
 <instance part="FRAME7" gate="G$1" x="0" y="0"/>

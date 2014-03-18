@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.3">
+<eagle version="6.4">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -7086,6 +7086,7 @@ Source: www.ecsxtal.com .. Crystal 3.6864MHz CSM_7X_DU.PDF</description>
 <plain>
 <text x="162.56" y="17.78" size="1.778" layer="94" font="vector">created by Markus Musielak</text>
 <text x="162.56" y="12.7" size="1.778" layer="94" font="vector">(CC) creative commons 3.0</text>
+<text x="162.56" y="20.32" size="1.778" layer="94" font="vector">embedded projects GmbH</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
